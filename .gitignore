@@ -1,0 +1,9 @@
+# Ignora todos los archivos:
+*.log
+*.pbix
+*.ini
+*.gsheet
+*.tmp
+*.bak
+*.png
+*.jpg
